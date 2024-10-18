@@ -9,13 +9,13 @@ local Window = Rayfield:CreateWindow({
 		FolderName = "Ro-Kill ChatBypasser Loaded",
 		FileName = "Big Hub"
 	},
-	KeySystem = false, -- Set this to true to use their key system
+	KeySystem = true, -- Set this to true to use their key system
 	KeySettings = {
-		Title = "Sirius Hub",
-		Subtitle = "Key System",
+		Title = "Ro-Kill ChatBreaker",
+		Subtitle = "Key is: rape",
 		Note = "Join the discord (discord.gg/sirius)",
 		SaveKey = true,
-		Key = "ABCDEF"
+		Key = "rape"
 	}
 })
 

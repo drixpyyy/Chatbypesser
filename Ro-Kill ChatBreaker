@@ -2,7 +2,7 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 local Window = Rayfield:CreateWindow({
 	Name = "Ro-Kill ChatBypasser",
-	LoadingTitle = "Rayfield Interface Suite",
+	LoadingTitle = "Ro-Rape",
 	LoadingSubtitle = "V1",
 	ConfigurationSaving = {
 		Enabled = true,
@@ -14,7 +14,7 @@ local Window = Rayfield:CreateWindow({
 		Title = "Ro-Kill ChatBreaker",
 		Subtitle = "Key is: rape",
 		Note = "Join the discord (discord.gg/sirius)",
-		SaveKey = true,
+		SaveKey = false,
 		Key = "rape"
 	}
 })

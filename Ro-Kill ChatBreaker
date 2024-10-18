@@ -51,7 +51,7 @@ game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageReque
 
 
 
-local Label = Tab:CreateLabel("this was actually made by Drixpyyyy 🤑")
+local Label = Tab:CreateLabel("if chat breaker doesnt work then spam it then it will work(games like bedwars)")
 
 local Paragraph = Tab:CreateParagraph({Title = "sexter morgan", Content = "nigger morgan"})
 
